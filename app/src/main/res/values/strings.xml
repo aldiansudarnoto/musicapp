@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundBox</string>
+    <string name="artist_name">Mia and Sebastian Theme</string>
+    <string name="go_to_library">Go to Library</string>
+</resources>
